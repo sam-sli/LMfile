@@ -1,0 +1,156 @@
+[
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T00:42:42.577Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T00:42:42.577Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T00:42:42.577Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T00:42:42.577Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:17:25.861Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:17:25.861Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:17:36.703Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:18:01.614Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "ON",
+        "date": "2021-07-04T03:18:28.972Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "ON",
+        "date": "2021-07-04T03:18:56.191Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:19:56.641Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "ON",
+        "date": "2021-07-04T03:20:23.718Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:20:56.468Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:21:23.626Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:21:57.716Z"
+    },
+    {
+        "classe": "ABC",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:22:25.084Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:17:27.282Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:17:27.282Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:18:27.722Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:20:28.539Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:21:29.538Z"
+    },
+    {
+        "classe": "XYZ",
+        "status": "OFF",
+        "alertLampe": "OFF",
+        "alertTemperature": "OFF",
+        "date": "2021-07-04T03:22:30.102Z"
+    }
+]
